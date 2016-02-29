@@ -1,0 +1,10 @@
+.navbar-default .navbar-nav>.active>a{
+  background-color: #f6b319;
+  border-radius: 0;
+  border: 0;
+}
+#chicken, #beef, #sushi{
+	background-color: #AAAAAA;
+	padding: 5px;
+	margin: 5%;
+}
